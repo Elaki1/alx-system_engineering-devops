@@ -19,4 +19,5 @@ den
 ree
 rev
 ref
+all
 
