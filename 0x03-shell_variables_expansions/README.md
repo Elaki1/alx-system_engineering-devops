@@ -15,4 +15,5 @@ sat
 log
 kot
 uref
+play
 
