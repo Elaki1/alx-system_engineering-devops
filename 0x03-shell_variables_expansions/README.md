@@ -12,4 +12,5 @@ key
 decimal
 jug
 sat
+log
 
