@@ -6,4 +6,5 @@ eqr
 krt
 jet
 ure
+know
 
