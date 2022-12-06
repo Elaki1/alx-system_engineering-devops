@@ -13,4 +13,5 @@ decimal
 jug
 sat
 log
+kot
 
