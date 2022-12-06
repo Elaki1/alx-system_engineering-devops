@@ -11,4 +11,5 @@ our
 key
 decimal
 jug
+sat
 
